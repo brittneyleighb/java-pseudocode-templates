@@ -1,8 +1,8 @@
 # 📌 What is Pseudocode?
 
-Pseudocode is a **step-by-step description of an algorithm or program written in plain, structured language** that looks similar to programming code but isn’t bound by any specific syntax rules.  
+Pseudocode is a step-by-step description of an algorithm or program written in plain language that looks similar to programming code, but isn’t bound by any specific syntax rules.  
 
-It’s used to **plan and explain logic** before writing actual code in a programming language (like Java).
+It’s used to plan and explain logic before writing actual code in a programming language (like Java).
 
 These are templates for writing psuedocode in Java!
 
