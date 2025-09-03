@@ -1,5 +1,7 @@
 Basic Conditional Templates
 Simple If Statement
+
+```java
 IF condition THEN
     // statements when condition is true
 END IF
@@ -19,6 +21,8 @@ ELSE IF tertiary_condition THEN
 ELSE
     // handle all other cases
 END IF
+```
+
 Nested Conditionals
 IF outer_condition THEN
     IF inner_condition THEN
