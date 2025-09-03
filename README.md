@@ -7,6 +7,8 @@ It’s used to plan and explain logic before writing actual code in a programmin
 These are templates for writing psuedocode in Java!
 
 ---
+## Resources:
+[Control-Flow Templates](https://github.com/brittneyleighb/java-pseudocode-templates/blob/main/control-flow-templates.md)
 
 ## 🔹 Key Points
 - **Not real code** → the computer can’t run it.  
