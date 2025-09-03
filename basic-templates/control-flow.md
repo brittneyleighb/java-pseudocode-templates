@@ -55,7 +55,9 @@ METHOD processData(input)
     // Main processing logic here
     RETURN successful_result
 END METHOD
+```
 Ternary-Style Decision
+```java
 SET result = (condition) ? value_if_true : value_if_false
 
 // In pseudocode form:
