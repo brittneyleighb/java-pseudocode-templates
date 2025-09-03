@@ -38,7 +38,9 @@ ELSE
     END IF
 END IF
 Advanced Conditional Patterns
+```
 Guard Clauses (Early Returns)
+```java
 METHOD processData(input)
     // Guard clauses - handle edge cases first
     IF input is null THEN
