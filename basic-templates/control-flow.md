@@ -1,6 +1,6 @@
-Basic Conditional Templates
-Simple If Statement
+## Basic Conditional Templates
 
+# Simple If Statement
 ```java
 IF condition THEN
     // statements when condition is true
@@ -23,7 +23,7 @@ ELSE
 END IF
 ```
 
-Nested Conditionals
+# Nested Conditionals
 ```java
 IF outer_condition THEN
     IF inner_condition THEN
@@ -37,9 +37,9 @@ ELSE
         // outer false, inner true
     END IF
 END IF
-Advanced Conditional Patterns
 ```
-Guard Clauses (Early Returns)
+# Advanced Conditional Patterns
+# Guard Clauses (Early Returns)
 ```java
 METHOD processData(input)
     // Guard clauses - handle edge cases first
@@ -58,7 +58,7 @@ METHOD processData(input)
     RETURN successful_result
 END METHOD
 ```
-Ternary-Style Decision
+# Ternary-Style Decision
 ```java
 SET result = (condition) ? value_if_true : value_if_false
 
