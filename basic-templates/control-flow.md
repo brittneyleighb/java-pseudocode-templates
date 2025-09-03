@@ -24,6 +24,7 @@ END IF
 ```
 
 Nested Conditionals
+```java
 IF outer_condition THEN
     IF inner_condition THEN
         // both conditions true
@@ -51,7 +52,6 @@ METHOD processData(input)
     IF input.isInvalid() THEN
         RETURN invalid_result
     END IF
-    
     // Main processing logic here
     RETURN successful_result
 END METHOD
@@ -64,3 +64,4 @@ IF condition THEN
 ELSE
     SET result = value_if_false
 END IF
+```
